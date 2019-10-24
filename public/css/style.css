@@ -3,7 +3,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    }
 
-.container {
+.toppings {
     margin-bottom: 20px;
 }
 
@@ -19,16 +19,31 @@ body {
     padding: 6px;
 }
 
-.eat-it {
+/* .eat-it {
     float: left;
     position: relative;
     top: -20px;
-}
+} */
 
 .add-burger {
-    padding-top: 20px
+    padding-top: 20px;
 }
 
 .spacer {
     margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+/* not affecting index.handlebars */
+
+.enter_section {
+    background-image: linear-gradient(bottom, yellow, brown);
+}
+
+#enter-name {
+    height: 50px;
+}
+
+#enter-topping {
+    height: 80px;
 }
