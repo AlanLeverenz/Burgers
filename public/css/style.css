@@ -1,0 +1,34 @@
+body {
+    background-color: #fcf997;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+
+.container {
+    margin-bottom: 20px;
+}
+
+.to-eat {
+    background-color: rgb(249, 171, 102);
+    font-weight: 900;
+    padding: 12px;
+    clear: left;
+}
+
+.toppings {
+    background-color: white;
+    padding: 6px;
+}
+
+.eat-it {
+    float: left;
+    position: relative;
+    top: -20px;
+}
+
+.add-burger {
+    padding-top: 20px
+}
+
+.spacer {
+    margin-top: 12px;
+}
