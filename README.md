@@ -36,19 +36,4 @@
 
     Alan Leverenz
 
-JAWSDB INFO
-
-Connection String:
-mysql://biu9e7wv25a0mfgv:d9oatblv6stuy43l@q68u8b2buodpme2n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/n5q97jqdo4j814xe
-
-Host: q68u8b2buodpme2n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
-
-Username: biu9e7wv25a0mfgv
-
-Password: d9oatblv6stuy43l
-
-Port: 3306
-
-Database: n5q97jqdo4j814xe
-
 
