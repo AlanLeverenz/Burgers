@@ -6,7 +6,7 @@
 
 ## How to run the app
 
-    Go to the "Burgers" Heroku deployment webpage. The interface is a simple listing of burgers on the left side. In the middle are buttons to devour the named burger.
+    Go to the "Burgers" Heroku deployment webpage (https://git.heroku.com/vast-mesa-58378.git). The interface is a simple listing of burgers on the left side. In the middle are buttons to devour the named burger.
 
     Burger on the menu:
     https://github.com/alanleverenz/Burgers/blob/master/public/images/burger-to-eat.png
